@@ -1,0 +1,12 @@
+.about-content {
+    text-align: left;
+}
+
+.about-content a {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+.about-content a:active {
+    color: orangered;
+}
